@@ -1,6 +1,6 @@
 const person = [];
 person[0] = "John";
-person[12] = "Doe";
+person[1] = "Doe";
 person[2] = 13; 
 document.getElementById("demo").innerHTML =
 person[0] + " " + person.length;
