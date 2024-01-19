@@ -1,7 +1,7 @@
 const person = [];
 person[0] = "John";
 person[1] = "Doe";
-person[2] = 13; 
+person[2] = 1883; 
 document.getElementById("demo").innerHTML =
 person[0] + " " + person.length;
 
