@@ -1,5 +1,5 @@
 const person = [];
-person[0] = "John";
+person[0] = "Joheen";
 person[1] = "Do";
 person[2] = 183; 
 document.getElementById("demoo").innerHTML =
