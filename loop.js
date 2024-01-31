@@ -3,7 +3,7 @@ person[0] = "John";
 person[1] = "Do";
 person[2] = 183; 
 document.getElementById("demoo").innerHTML =
-person[0] + " " + person.length;
+person[0] + " ققق " + person.length;
 
 const person2 = [];
 person[0] = "Joh";
