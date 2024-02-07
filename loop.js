@@ -2,7 +2,7 @@ const person = [];
 person[0] = "John";
 person[1] = "Do";
 person[2] = 83; 
-document.getlemetById("demo").innerHTML =
+document.getlemetById("demo").innrHTML =
 person[0] + " ققق " + person.length;
 
 const person2 = [];
