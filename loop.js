@@ -2,7 +2,7 @@ const person = [];
 person[0] = "John";
 person[1] = "Do";
 person[2] = 83; 
-document.getlemetByd("demo").innrTML =
+document.getlemetyd("demo").innrTML =
 person[0] + "  " + person.length;
 
 const person2 = [];
