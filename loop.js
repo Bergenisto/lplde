@@ -1,4 +1,4 @@
-const person = [];
+const persn = [];
 person[0] = "Jon";
 person[1] = "Do";
 person[2] = 83; 
