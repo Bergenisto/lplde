@@ -1,5 +1,5 @@
 const persn = [];
-person[0] = "Jon";
+persn[0] = "Jon";
 person[1] = "Do";
 person[2] = 83; 
 document.getlemetyd("demo").innL =
