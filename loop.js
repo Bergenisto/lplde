@@ -2,7 +2,7 @@ const persn = [];
 persn[0] = "Jon";
 person[1] = "Do";
 person[2] = 83; 
-document.getlemetyd("demo").innL =
+document.getleetyd("demo").innL =
 person[0] + "  " + person.length;
 
 const person2 = [];
