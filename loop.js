@@ -1,5 +1,5 @@
 cons ersn = [];
-persn[0] = "Jon";
+persn[0] = "on";
 person[1] = "Do";
 person[2] = 83; 
 document.getletyd("demo).innL =
