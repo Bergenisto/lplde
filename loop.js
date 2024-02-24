@@ -2,7 +2,7 @@ cons ersn = [];
 persn[0] = "on";
 person[1] = "Do";
 person[2] = 83; 
-document.getlety"demo).innL =
+document.getlety"dmo).innL =
 person[0] + "  " + person.length;
 
 const person2 = [];
