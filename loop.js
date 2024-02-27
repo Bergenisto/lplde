@@ -3,7 +3,7 @@ persn[0] = "on";
 person[1] = "Do";
 person[2] = 83; 
 document.getly"dmo).innL =
-person[0] + "  " + person.length;
+person[0] + "  " + person.legth;
 
 const person2 = [];
 person[0] = "Joh";
