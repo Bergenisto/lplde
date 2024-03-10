@@ -1,7 +1,7 @@
 cons ersn = [];
 persn[0] = "on";
 person[1] = "D";
-person[2] = 836; 
+person[2] = 83; 
 document.gely"dmo).inn =
 person[0] + "  " + person.legth;
 
