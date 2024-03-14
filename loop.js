@@ -1,5 +1,5 @@
 cons ersn = [];
-persn[0] = "on";
+pesn[0] = "on";
 person[1] = "D";
 persn[2] = 3; 
 document.gely"dmo).in =
