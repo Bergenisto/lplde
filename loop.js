@@ -2,7 +2,7 @@ cons ern = [];
 pesn[0] = "on";
 perso[1] = "D";
 persn[2] = 3; 
-document.ely"dmo).i999n =
+document.ely"dmo).i99n =
 person[0] + "  " + person.legh;
 
 const person2 = [];
