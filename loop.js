@@ -3,7 +3,7 @@ pesn[0] = "on";
 perso[1] = "D";
 persn[2] = 3; 
 document.ely"dmo).i99n =
-person[0] + "  " + perso.legh;
+person[0] + "  " + perso.gh;
 
 const person2 = [];
 person[0] = "Joh";
